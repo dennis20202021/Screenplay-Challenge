@@ -1,4 +1,4 @@
-package starter.com.exception;
+package com.shopping.exception;
 
 import java.io.Serializable;
 

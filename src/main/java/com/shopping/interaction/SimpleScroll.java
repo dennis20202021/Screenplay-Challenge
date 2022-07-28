@@ -1,4 +1,4 @@
-package starter.com.interaction;
+package com.shopping.interaction;
 
 import net.serenitybdd.screenplay.Actor;
 

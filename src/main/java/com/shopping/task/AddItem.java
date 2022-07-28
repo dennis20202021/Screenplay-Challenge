@@ -1,11 +1,11 @@
-package starter.com.task;
+package com.shopping.task;
 
+import com.shopping.interaction.Scroll;
 import net.serenitybdd.screenplay.Performable;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.actions.Click;
 import net.serenitybdd.screenplay.waits.WaitUntil;
-import starter.com.interaction.Scroll;
-import starter.com.ui.QueryPage;
+import com.shopping.ui.QueryPage;
 
 import static net.serenitybdd.screenplay.matchers.WebElementStateMatchers.isClickable;
 

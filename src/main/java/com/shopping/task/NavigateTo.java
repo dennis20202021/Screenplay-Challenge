@@ -1,9 +1,9 @@
-package starter.com.task;
+package com.shopping.task;
 
 import net.serenitybdd.screenplay.Performable;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.actions.Open;
-import starter.com.ui.PlazaVeaHomePage;
+import com.shopping.ui.PlazaVeaHomePage;
 
 public class NavigateTo {
 

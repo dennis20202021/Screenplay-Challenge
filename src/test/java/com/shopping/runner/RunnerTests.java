@@ -1,4 +1,4 @@
-package starter;
+package com.shopping.runner;
 
 import io.cucumber.junit.CucumberOptions;
 import net.serenitybdd.cucumber.CucumberWithSerenity;
@@ -7,9 +7,9 @@ import org.junit.runner.RunWith;
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(
         plugin = {"pretty"},
-        glue = "starter.stepdefinitions",
+        glue = "com.shopping.stepdefinitions",
         tags = "@buy_new_item",
         publish = true,
         features = "src/test/resources/features"
 )
-public class RunnerTest {}
+public class RunnerTests {}

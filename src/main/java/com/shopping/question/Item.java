@@ -1,7 +1,7 @@
-package starter.com.question;
+package com.shopping.question;
 
+import com.shopping.ui.QueryPage;
 import net.serenitybdd.screenplay.Question;
-import starter.com.ui.QueryPage;
 
 public class Item {
 

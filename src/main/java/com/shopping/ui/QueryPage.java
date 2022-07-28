@@ -1,4 +1,4 @@
-package starter.com.ui;
+package com.shopping.ui;
 
 import net.serenitybdd.screenplay.targets.Target;
 import net.thucydides.core.pages.PageObject;

@@ -1,4 +1,4 @@
-package starter.com.interaction;
+package com.shopping.interaction;
 
 public class Scroll {
 

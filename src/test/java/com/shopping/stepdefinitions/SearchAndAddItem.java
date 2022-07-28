@@ -1,17 +1,17 @@
-package starter.stepdefinitions;
+package com.shopping.stepdefinitions;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import net.serenitybdd.screenplay.Actor;
-import starter.com.exception.ElementNotFoundException;
-import starter.com.task.AddItem;
-import starter.com.task.NavigateTo;
-import starter.com.task.SearchItem;
-import starter.com.task.ValidateItem;
-import starter.com.ui.PlazaVeaHomePage;
-import starter.com.ui.QueryPage;
+import com.shopping.exception.ElementNotFoundException;
+import com.shopping.task.AddItem;
+import com.shopping.task.NavigateTo;
+import com.shopping.task.SearchItem;
+import com.shopping.task.ValidateItem;
+import com.shopping.ui.PlazaVeaHomePage;
+import com.shopping.ui.QueryPage;
 
 public class SearchAndAddItem {
 

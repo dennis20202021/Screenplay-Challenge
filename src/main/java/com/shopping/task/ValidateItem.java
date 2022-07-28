@@ -1,8 +1,8 @@
-package starter.com.task;
+package com.shopping.task;
 
 import net.serenitybdd.screenplay.Performable;
 import net.serenitybdd.screenplay.Task;
-import starter.com.question.Item;
+import com.shopping.question.Item;
 
 import static net.serenitybdd.screenplay.GivenWhenThen.seeThat;
 import static org.hamcrest.Matchers.equalToIgnoringCase;

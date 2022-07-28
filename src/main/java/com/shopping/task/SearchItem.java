@@ -1,13 +1,13 @@
-package starter.com.task;
+package com.shopping.task;
 
+import com.shopping.util.csv.Data;
 import net.serenitybdd.screenplay.Performable;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.actions.Click;
 import net.serenitybdd.screenplay.actions.Enter;
 import net.serenitybdd.screenplay.waits.WaitUntil;
 import org.openqa.selenium.Keys;
-import starter.com.ui.PlazaVeaHomePage;
-import starter.com.util.csv.Data;
+import com.shopping.ui.PlazaVeaHomePage;
 
 import static net.serenitybdd.screenplay.matchers.WebElementStateMatchers.*;
 

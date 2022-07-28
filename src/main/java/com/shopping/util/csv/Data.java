@@ -1,4 +1,4 @@
-package starter.com.util.csv;
+package com.shopping.util.csv;
 
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVRecord;
